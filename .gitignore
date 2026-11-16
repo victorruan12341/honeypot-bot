@@ -1,0 +1,14 @@
+# Segredos
+bot.env
+.env
+Token.txt
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Editor
+.vscode/
+.idea/
