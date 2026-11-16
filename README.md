@@ -79,7 +79,7 @@ Banido: spammer#0000 (987654321098765432) em Meu Servidor
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/SEU_USUARIO/honeypot-bot.git
+git clone https://github.com/victorruan12341/honeypot-bot.git
 cd honeypot-bot
 
 # 2. Crie e ative o ambiente virtual
