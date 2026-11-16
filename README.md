@@ -210,7 +210,7 @@ Distribuído sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais det
 
 <div align="center">
 
-Feito com 💜 por [SEU_NOME](https://github.com/SEU_USUARIO)
+Feito com 💜 por [Victor Ruan](https://github.com/SEU_USUARIO)
 
 ⭐ Se o projeto te ajudou, deixe uma estrela no repositório.
 
